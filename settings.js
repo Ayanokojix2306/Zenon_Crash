@@ -26,7 +26,7 @@ global.wm = "Toxxic Tech."
 global.link = 'https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['-']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
